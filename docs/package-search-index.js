@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"vn.edu.hcmus.fit.ndhuy.hijava"},{"l":"vn.edu.hcmus.fit.ndhuy.hijava.basic"}];updateSearchResults();

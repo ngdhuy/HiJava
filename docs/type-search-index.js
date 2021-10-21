@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"vn.edu.hcmus.fit.ndhuy.hijava.basic","l":"main"},{"p":"vn.edu.hcmus.fit.ndhuy.hijava","l":"Main"}];updateSearchResults();
