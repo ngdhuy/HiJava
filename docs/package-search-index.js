@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"vn.edu.hcmus.fit.ndhuy.hijava"},{"l":"vn.edu.hcmus.fit.ndhuy.hijava.basic"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"vn.edu.hcmus.fit.ndhuy.hijava"},{"l":"vn.edu.hcmus.fit.ndhuy.hijava.basic"},{"l":"vn.edu.hcmus.fit.ndhuy.hijava.fraction"},{"l":"vn.edu.hcmus.fit.ndhuy.hijava.myarray"}];updateSearchResults();
